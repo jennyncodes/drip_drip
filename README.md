@@ -9,8 +9,3 @@ Applicability of broadband use in rural America where there is limited access an
 How can open USDA data be used in the decision making process, machine learning, or artificial intelligence models and applications?
 
 Cybersecurity to detect, prevent, mitigate and protect against threats.
-
-
-# drip_drip
-# drip_drip
-# drip_drip
